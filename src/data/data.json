@@ -1,0 +1,159 @@
+{
+  "Header": {
+    "title": "Empowering Ethiopian Businesses Online",
+    "paragraph": "We are dedicated to transforming businesses in Ethiopia with cutting-edge digital marketing strategies. Let us help you reach your audience, grow your brand, and achieve your goals."
+  },
+  "About": {
+    "paragraph": "Our mission is to empower Ethiopian businesses with innovative digital marketing solutions tailored to the local market. From strategy to execution, we deliver impactful campaigns that drive results. Whether you're a startup or an established company, we're here to help you succeed online.",
+    "Why": [
+      "Customized digital strategies for Ethiopian businesses",
+      "Expertise in local and global market trends",
+      "Affordable solutions for startups and SMEs",
+      "Passion for empowering local entrepreneurs"
+    ],
+    "Why2": [
+      "Innovative content marketing approaches",
+      "Strong understanding of Ethiopian culture and audience",
+      "Dedicated support and consultation",
+      "Proven track record of delivering results"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Social Media Campaign",
+      "largeImage": "img/portfolio/01.jpg",
+      "smallImage": "img/portfolio/01.jpg"
+    },
+    {
+      "title": "Branding Project",
+      "largeImage": "img/portfolio/branding-large.jpg",
+      "smallImage": "img/portfolio/02.jpg"
+    },
+    {
+      "title": "Content Creation",
+      "largeImage": "img/portfolio/content-large.jpg",
+      "smallImage": "img/portfolio/03.jpg"
+    },
+    {
+      "title": "SEO Optimization",
+      "largeImage": "img/portfolio/seo-large.jpg",
+      "smallImage": "img/portfolio/04.jpg"
+    },
+    {
+      "title": "E-commerce Growth",
+      "largeImage": "img/portfolio/ecommerce-large.jpg",
+      "smallImage": "img/portfolio/05.jpg"
+    },
+    {
+      "title": "Content Creation",
+      "largeImage": "img/portfolio/content-large.jpg",
+      "smallImage": "img/portfolio/07.jpg"
+    },
+    {
+      "title": "Content Creation",
+      "largeImage": "img/portfolio/content-large.jpg",
+      "smallImage": "img/portfolio/08.jpg"
+    },
+    {
+      "title": "Content Creation",
+      "largeImage": "img/portfolio/content-large.jpg",
+      "smallImage": "img/portfolio/09.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Digital Strategy Development",
+      "text": "We create customized digital marketing strategies that align with your business goals and maximize your online presence."
+    },
+    {
+      "icon": "fa fa-download",
+      "name": "Social Media Marketing",
+      "text": "Reach and engage your audience on platforms like Facebook, Instagram, TikTok, and LinkedIn with targeted campaigns."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "Search Engine Optimization (SEO)",
+      "text": "Improve your website's visibility on search engines and attract organic traffic with our tailored SEO solutions."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "E-commerce Solutions",
+      "text": "Boost your online sales with our e-commerce growth strategies and targeted campaigns."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Content Marketing",
+      "text": "Tell your brand story with high-quality, culturally relevant content that resonates with your audience."
+    },
+    {
+      "icon": "fa fa-envelope",
+      "name": "Email Marketing",
+      "text": "Build and nurture relationships with your customers through personalized email campaigns."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/client1.jpg",
+      "text": "\"Thanks to their digital marketing expertise, our business has grown significantly. Their understanding of the Ethiopian market is unmatched.\"",
+      "name": "Alemu Kebede, CEO of Addis Crafts"
+    },
+    {
+      "img": "img/testimonials/client2.jpg",
+      "text": "\"They transformed our online presence with creative and effective strategies. Highly recommend their services.\"",
+      "name": "Sara Tadesse, Founder of EthioEco"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/founder.jpg",
+      "name": "Abenezer",
+      "job": "Founder & CEO"
+    },
+    {
+      "img": "img/team/marketing-expert.jpg",
+      "name": "Biruk Alemayehu",
+      "job": "Marketing Strategist"
+    },
+    {
+      "img": "img/team/designer.jpg",
+      "name": "Mihret Tsegaye",
+      "job": "Creative Designer"
+    },
+    {
+      "img": "img/team/developer.jpg",
+      "name": "Eliyana Belay",
+      "job": "Web Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Bole Road, Addis Ababa, Ethiopia",
+    "phone": "+251 912 345 678",
+    "email": "info@ethiodigital.com",
+    "facebook": "facebook.com/ethiodigital",
+    "twitter": "twitter.com/ethiodigital",
+    "youtube": "youtube.com/ethiodigital"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-rocket",
+      "title": "Market Reach Expansion",
+      "text": "We help you expand your market reach and connect with customers across Ethiopia and beyond."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Audience Engagement",
+      "text": "Create meaningful connections with your audience through interactive and engaging campaigns."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Innovative Solutions",
+      "text": "We use the latest digital tools and techniques to keep your brand ahead of the competition."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Customer-Centric Approach",
+      "text": "Your success is our priority. We are committed to delivering value and building lasting relationships."
+    }
+  ]
+}
